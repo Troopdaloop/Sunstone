@@ -1,5 +1,5 @@
-🛒 Shop Item Ideas for Sunstone
-🩸 Survival & Recovery
+#🛒 Shop Item Ideas for Sunstone
+##🩸 Survival & Recovery
 Health Pack – Restores full or partial health
 Revive Token – Retry a failed wave without restarting the round
 Shield Charm – Absorbs one hit per wave
