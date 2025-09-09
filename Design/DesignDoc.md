@@ -11,7 +11,7 @@
 
 ---
 
-## 🧱 Mode 1: Random Waves + Loot
+## 🧱 Mode 1: Adventure - Random Waves + Randomised Loot
 
 ### Enemy Wave Logic
 - Wave Number: [ ]
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧱 Mode 2: Set Waves + High Score
+## 🧱 Mode 2: Challenge Set Waves + High Score + rewards (Loot)
 ### Wave Setup
 **Wave 1**
 - 3 Goblins
@@ -61,8 +61,9 @@
 
 ### Inventory Slots
 - Weapon
-- Armor
 - Helm
+- Chest Armour
+- Boots
 - Trinket
 
 ### Example Equipment
